@@ -1,0 +1,15 @@
+C:\DISTR\GeekBrains\Seminars\Ex06\obj\Debug\net7.0\Ex06.csproj.AssemblyReference.cache
+C:\DISTR\GeekBrains\Seminars\Ex06\obj\Debug\net7.0\Ex06.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISTR\GeekBrains\Seminars\Ex06\obj\Debug\net7.0\Ex06.AssemblyInfoInputs.cache
+C:\DISTR\GeekBrains\Seminars\Ex06\obj\Debug\net7.0\Ex06.AssemblyInfo.cs
+C:\DISTR\GeekBrains\Seminars\Ex06\obj\Debug\net7.0\Ex06.csproj.CoreCompileInputs.cache
+C:\DISTR\GeekBrains\Seminars\Ex06\bin\Debug\net7.0\Ex06.exe
+C:\DISTR\GeekBrains\Seminars\Ex06\bin\Debug\net7.0\Ex06.deps.json
+C:\DISTR\GeekBrains\Seminars\Ex06\bin\Debug\net7.0\Ex06.runtimeconfig.json
+C:\DISTR\GeekBrains\Seminars\Ex06\bin\Debug\net7.0\Ex06.dll
+C:\DISTR\GeekBrains\Seminars\Ex06\bin\Debug\net7.0\Ex06.pdb
+C:\DISTR\GeekBrains\Seminars\Ex06\obj\Debug\net7.0\Ex06.dll
+C:\DISTR\GeekBrains\Seminars\Ex06\obj\Debug\net7.0\refint\Ex06.dll
+C:\DISTR\GeekBrains\Seminars\Ex06\obj\Debug\net7.0\Ex06.pdb
+C:\DISTR\GeekBrains\Seminars\Ex06\obj\Debug\net7.0\Ex06.genruntimeconfig.cache
+C:\DISTR\GeekBrains\Seminars\Ex06\obj\Debug\net7.0\ref\Ex06.dll
