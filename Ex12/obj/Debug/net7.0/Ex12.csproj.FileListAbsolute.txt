@@ -1,0 +1,15 @@
+C:\DISTR\GeekBrains\Seminars\Ex12\bin\Debug\net7.0\Ex12.exe
+C:\DISTR\GeekBrains\Seminars\Ex12\bin\Debug\net7.0\Ex12.deps.json
+C:\DISTR\GeekBrains\Seminars\Ex12\bin\Debug\net7.0\Ex12.runtimeconfig.json
+C:\DISTR\GeekBrains\Seminars\Ex12\bin\Debug\net7.0\Ex12.dll
+C:\DISTR\GeekBrains\Seminars\Ex12\bin\Debug\net7.0\Ex12.pdb
+C:\DISTR\GeekBrains\Seminars\Ex12\obj\Debug\net7.0\Ex12.csproj.AssemblyReference.cache
+C:\DISTR\GeekBrains\Seminars\Ex12\obj\Debug\net7.0\Ex12.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISTR\GeekBrains\Seminars\Ex12\obj\Debug\net7.0\Ex12.AssemblyInfoInputs.cache
+C:\DISTR\GeekBrains\Seminars\Ex12\obj\Debug\net7.0\Ex12.AssemblyInfo.cs
+C:\DISTR\GeekBrains\Seminars\Ex12\obj\Debug\net7.0\Ex12.csproj.CoreCompileInputs.cache
+C:\DISTR\GeekBrains\Seminars\Ex12\obj\Debug\net7.0\Ex12.dll
+C:\DISTR\GeekBrains\Seminars\Ex12\obj\Debug\net7.0\refint\Ex12.dll
+C:\DISTR\GeekBrains\Seminars\Ex12\obj\Debug\net7.0\Ex12.pdb
+C:\DISTR\GeekBrains\Seminars\Ex12\obj\Debug\net7.0\Ex12.genruntimeconfig.cache
+C:\DISTR\GeekBrains\Seminars\Ex12\obj\Debug\net7.0\ref\Ex12.dll
