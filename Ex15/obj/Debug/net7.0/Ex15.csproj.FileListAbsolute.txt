@@ -1,0 +1,15 @@
+C:\DISTR\GeekBrains\Seminars\Ex15\bin\Debug\net7.0\Ex15.exe
+C:\DISTR\GeekBrains\Seminars\Ex15\bin\Debug\net7.0\Ex15.deps.json
+C:\DISTR\GeekBrains\Seminars\Ex15\bin\Debug\net7.0\Ex15.runtimeconfig.json
+C:\DISTR\GeekBrains\Seminars\Ex15\bin\Debug\net7.0\Ex15.dll
+C:\DISTR\GeekBrains\Seminars\Ex15\bin\Debug\net7.0\Ex15.pdb
+C:\DISTR\GeekBrains\Seminars\Ex15\obj\Debug\net7.0\Ex15.csproj.AssemblyReference.cache
+C:\DISTR\GeekBrains\Seminars\Ex15\obj\Debug\net7.0\Ex15.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISTR\GeekBrains\Seminars\Ex15\obj\Debug\net7.0\Ex15.AssemblyInfoInputs.cache
+C:\DISTR\GeekBrains\Seminars\Ex15\obj\Debug\net7.0\Ex15.AssemblyInfo.cs
+C:\DISTR\GeekBrains\Seminars\Ex15\obj\Debug\net7.0\Ex15.csproj.CoreCompileInputs.cache
+C:\DISTR\GeekBrains\Seminars\Ex15\obj\Debug\net7.0\Ex15.dll
+C:\DISTR\GeekBrains\Seminars\Ex15\obj\Debug\net7.0\refint\Ex15.dll
+C:\DISTR\GeekBrains\Seminars\Ex15\obj\Debug\net7.0\Ex15.pdb
+C:\DISTR\GeekBrains\Seminars\Ex15\obj\Debug\net7.0\Ex15.genruntimeconfig.cache
+C:\DISTR\GeekBrains\Seminars\Ex15\obj\Debug\net7.0\ref\Ex15.dll
