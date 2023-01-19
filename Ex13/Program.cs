@@ -3,15 +3,20 @@
 //78 -> третьей цифры нет
 //32679 -> 6
 
-Console.Write("Введите число: ");
+Console.Write("Введите целое число до 2 147 483 647: ");
 string numb = Console.ReadLine() ?? "";
 int num = int.Parse(numb);
+int count = numb.Length;                                // количество цифр в числе
 
-int divMillion = num % 1000000;
+//Объяснение кода:
+// число 123 - нужен остаток от деления на 10
+// число 1234 - нужен остаток от деления на 100 и разделить его на 10
+// число 12345 - нужен остаток от деления на 1000 и разделить его на 100
+// и т.д.
 
-Console.WriteLine($"{divMillion}");
+double div = Math.Pow(10, (count-2));
+double div1 = Math.Pow(10, (count-3));
+int result = (int)((num % div) / div1);
 
-if (divMillion > 10)
-{
-    int divMillion = num % 10000000;
-}
+Console.WriteLine($"цифр в числе: {count}");
+Console.WriteLine($"Третья цифра введенного числа: {result}");
