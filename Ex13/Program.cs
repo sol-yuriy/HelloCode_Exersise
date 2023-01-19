@@ -5,8 +5,11 @@
 
 Console.Write("Введите целое число (до 2 147 483 647): ");
 string numb = Console.ReadLine() ?? "";
-int num = int.Parse(numb);
+int num1 = int.Parse(numb);
+int num = Math.Abs(num1);                               //берем модуль, если вводится отриц.число 
 int count = numb.Length;                                // количество цифр в числе
+
+if (num1 < 0) count = count - 1;                        //если вводится отриц.число, идет коррекция количества символов
 
 //Объяснение кода. чтобы найти 3ю цифру числа:
 // число 123 - нужен остаток от деления на 10
@@ -14,8 +17,8 @@ int count = numb.Length;                                // количество 
 // число 12345 - нужен остаток от деления на 1000 и разделить его на 100
 // и т.д.
 
-double div = Math.Pow(10, (count-2));
-double div1 = Math.Pow(10, (count-3));
+double div = Math.Pow(10, (count - 2));
+double div1 = Math.Pow(10, (count - 3));
 int result = (int)((num % div) / div1);
 
 Console.WriteLine($"цифр в числе: {count}");
