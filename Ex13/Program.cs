@@ -3,7 +3,7 @@
 //78 -> третьей цифры нет
 //32679 -> 6
 
-Console.Write("Введите целое число до 2 147 483 647: ");
+Console.Write("Введите целое число (до 2 147 483 647): ");
 string numb = Console.ReadLine() ?? "";
 int num = int.Parse(numb);
 int count = numb.Length;                                // количество цифр в числе
@@ -19,4 +19,7 @@ double div1 = Math.Pow(10, (count-3));
 int result = (int)((num % div) / div1);
 
 Console.WriteLine($"цифр в числе: {count}");
-Console.WriteLine($"Третья цифра введенного числа: {result}");
+if (result > 0)
+    Console.WriteLine($"Третья цифра введенного числа: {result}");
+else
+    Console.WriteLine($"Третья цифра введенного числа отсутствует");
