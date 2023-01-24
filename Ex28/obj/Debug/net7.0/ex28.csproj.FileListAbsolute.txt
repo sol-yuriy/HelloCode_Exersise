@@ -1,0 +1,15 @@
+C:\DISTR\GeekBrains\Seminars\ex28\bin\Debug\net7.0\ex28.exe
+C:\DISTR\GeekBrains\Seminars\ex28\bin\Debug\net7.0\ex28.deps.json
+C:\DISTR\GeekBrains\Seminars\ex28\bin\Debug\net7.0\ex28.runtimeconfig.json
+C:\DISTR\GeekBrains\Seminars\ex28\bin\Debug\net7.0\ex28.dll
+C:\DISTR\GeekBrains\Seminars\ex28\bin\Debug\net7.0\ex28.pdb
+C:\DISTR\GeekBrains\Seminars\ex28\obj\Debug\net7.0\ex28.csproj.AssemblyReference.cache
+C:\DISTR\GeekBrains\Seminars\ex28\obj\Debug\net7.0\ex28.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISTR\GeekBrains\Seminars\ex28\obj\Debug\net7.0\ex28.AssemblyInfoInputs.cache
+C:\DISTR\GeekBrains\Seminars\ex28\obj\Debug\net7.0\ex28.AssemblyInfo.cs
+C:\DISTR\GeekBrains\Seminars\ex28\obj\Debug\net7.0\ex28.csproj.CoreCompileInputs.cache
+C:\DISTR\GeekBrains\Seminars\ex28\obj\Debug\net7.0\ex28.dll
+C:\DISTR\GeekBrains\Seminars\ex28\obj\Debug\net7.0\refint\ex28.dll
+C:\DISTR\GeekBrains\Seminars\ex28\obj\Debug\net7.0\ex28.pdb
+C:\DISTR\GeekBrains\Seminars\ex28\obj\Debug\net7.0\ex28.genruntimeconfig.cache
+C:\DISTR\GeekBrains\Seminars\ex28\obj\Debug\net7.0\ref\ex28.dll
