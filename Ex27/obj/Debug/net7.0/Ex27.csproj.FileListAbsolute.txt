@@ -1,0 +1,15 @@
+C:\DISTR\GeekBrains\Seminars\Ex27\bin\Debug\net7.0\Ex27.exe
+C:\DISTR\GeekBrains\Seminars\Ex27\bin\Debug\net7.0\Ex27.deps.json
+C:\DISTR\GeekBrains\Seminars\Ex27\bin\Debug\net7.0\Ex27.runtimeconfig.json
+C:\DISTR\GeekBrains\Seminars\Ex27\bin\Debug\net7.0\Ex27.dll
+C:\DISTR\GeekBrains\Seminars\Ex27\bin\Debug\net7.0\Ex27.pdb
+C:\DISTR\GeekBrains\Seminars\Ex27\obj\Debug\net7.0\Ex27.csproj.AssemblyReference.cache
+C:\DISTR\GeekBrains\Seminars\Ex27\obj\Debug\net7.0\Ex27.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISTR\GeekBrains\Seminars\Ex27\obj\Debug\net7.0\Ex27.AssemblyInfoInputs.cache
+C:\DISTR\GeekBrains\Seminars\Ex27\obj\Debug\net7.0\Ex27.AssemblyInfo.cs
+C:\DISTR\GeekBrains\Seminars\Ex27\obj\Debug\net7.0\Ex27.csproj.CoreCompileInputs.cache
+C:\DISTR\GeekBrains\Seminars\Ex27\obj\Debug\net7.0\Ex27.dll
+C:\DISTR\GeekBrains\Seminars\Ex27\obj\Debug\net7.0\refint\Ex27.dll
+C:\DISTR\GeekBrains\Seminars\Ex27\obj\Debug\net7.0\Ex27.pdb
+C:\DISTR\GeekBrains\Seminars\Ex27\obj\Debug\net7.0\Ex27.genruntimeconfig.cache
+C:\DISTR\GeekBrains\Seminars\Ex27\obj\Debug\net7.0\ref\Ex27.dll
