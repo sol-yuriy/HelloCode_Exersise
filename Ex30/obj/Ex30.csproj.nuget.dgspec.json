@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DISTR\\GeekBrains\\Seminars\\Ex30\\Ex30.csproj": {}
+    "C:\\DISTR\\GeekBrains\\Seminars\\ex30\\Ex30.csproj": {}
   },
   "projects": {
-    "C:\\DISTR\\GeekBrains\\Seminars\\Ex30\\Ex30.csproj": {
+    "C:\\DISTR\\GeekBrains\\Seminars\\ex30\\Ex30.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DISTR\\GeekBrains\\Seminars\\Ex30\\Ex30.csproj",
+        "projectUniqueName": "C:\\DISTR\\GeekBrains\\Seminars\\ex30\\Ex30.csproj",
         "projectName": "Ex30",
-        "projectPath": "C:\\DISTR\\GeekBrains\\Seminars\\Ex30\\Ex30.csproj",
+        "projectPath": "C:\\DISTR\\GeekBrains\\Seminars\\ex30\\Ex30.csproj",
         "packagesPath": "C:\\Users\\syv\\.nuget\\packages\\",
-        "outputPath": "C:\\DISTR\\GeekBrains\\Seminars\\Ex30\\obj\\",
+        "outputPath": "C:\\DISTR\\GeekBrains\\Seminars\\ex30\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\syv\\AppData\\Roaming\\NuGet\\NuGet.Config"

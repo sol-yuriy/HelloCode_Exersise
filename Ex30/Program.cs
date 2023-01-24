@@ -5,17 +5,20 @@
 Console.Clear();
 
 int num = GetNumberFromUser("Введите целое число A: ", "Ошибка ввода!");
+printArray();
 
-int i = 0;
-int[] element = new int[num];
-Console.Write("[ ");
-while (i < num)
+void printArray()
 {
-    element [i] = new Random().Next(0, 2);
-    Console.Write($"{element[i]} ");
-    i++;
+    int[] element = new int[num];
+    Console.Write("[ ");
+    for (int i = 0; i < num - 1; i++)
+    {
+        element[i] = new Random().Next(0, 2);
+        Console.Write($"{element[i]}, ");
+    }
+    Console.Write($"{new Random().Next(0, 2)} ");   //чтобы избавиться от последней запятой
+    Console.Write("]");
 }
-Console.Write("]");
 
 
 int GetNumberFromUser(string message, string errorMessage)
