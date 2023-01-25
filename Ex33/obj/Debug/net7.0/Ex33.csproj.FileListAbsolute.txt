@@ -1,0 +1,15 @@
+C:\DISTR\GeekBrains\Seminars\Ex33\bin\Debug\net7.0\Ex33.exe
+C:\DISTR\GeekBrains\Seminars\Ex33\bin\Debug\net7.0\Ex33.deps.json
+C:\DISTR\GeekBrains\Seminars\Ex33\bin\Debug\net7.0\Ex33.runtimeconfig.json
+C:\DISTR\GeekBrains\Seminars\Ex33\bin\Debug\net7.0\Ex33.dll
+C:\DISTR\GeekBrains\Seminars\Ex33\bin\Debug\net7.0\Ex33.pdb
+C:\DISTR\GeekBrains\Seminars\Ex33\obj\Debug\net7.0\Ex33.csproj.AssemblyReference.cache
+C:\DISTR\GeekBrains\Seminars\Ex33\obj\Debug\net7.0\Ex33.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISTR\GeekBrains\Seminars\Ex33\obj\Debug\net7.0\Ex33.AssemblyInfoInputs.cache
+C:\DISTR\GeekBrains\Seminars\Ex33\obj\Debug\net7.0\Ex33.AssemblyInfo.cs
+C:\DISTR\GeekBrains\Seminars\Ex33\obj\Debug\net7.0\Ex33.csproj.CoreCompileInputs.cache
+C:\DISTR\GeekBrains\Seminars\Ex33\obj\Debug\net7.0\Ex33.dll
+C:\DISTR\GeekBrains\Seminars\Ex33\obj\Debug\net7.0\refint\Ex33.dll
+C:\DISTR\GeekBrains\Seminars\Ex33\obj\Debug\net7.0\Ex33.pdb
+C:\DISTR\GeekBrains\Seminars\Ex33\obj\Debug\net7.0\Ex33.genruntimeconfig.cache
+C:\DISTR\GeekBrains\Seminars\Ex33\obj\Debug\net7.0\ref\Ex33.dll
