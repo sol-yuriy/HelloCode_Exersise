@@ -24,7 +24,8 @@ int[] GetArrayMult(int[] list, int count)
     for (int i = 0; i <= size - 1; i++)     
     //(size - 1) - индекс последнего элемента массива, size - количество элементов
     {
-        if (list[i] != list[count - i - 1])
+        //if (list[i] != list[count - i - 1])  - не верно, т.к. сравниваю значение элемента, а они могут быть равны
+        if (i != (count - i - 1))     // верно, т.к. сравниваю индекс элементе
             multiple[i] = (list[i] * list[count - i - 1]);   
             //[count - i - 1] для правильного учета последнего элемента массива
         else
