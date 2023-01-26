@@ -1,0 +1,15 @@
+C:\DISTR\GeekBrains\Seminars\ex40\obj\Debug\net7.0\ex40.csproj.AssemblyReference.cache
+C:\DISTR\GeekBrains\Seminars\ex40\obj\Debug\net7.0\ex40.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISTR\GeekBrains\Seminars\ex40\obj\Debug\net7.0\ex40.AssemblyInfoInputs.cache
+C:\DISTR\GeekBrains\Seminars\ex40\obj\Debug\net7.0\ex40.AssemblyInfo.cs
+C:\DISTR\GeekBrains\Seminars\ex40\obj\Debug\net7.0\ex40.csproj.CoreCompileInputs.cache
+C:\DISTR\GeekBrains\Seminars\ex40\bin\Debug\net7.0\ex40.exe
+C:\DISTR\GeekBrains\Seminars\ex40\bin\Debug\net7.0\ex40.deps.json
+C:\DISTR\GeekBrains\Seminars\ex40\bin\Debug\net7.0\ex40.runtimeconfig.json
+C:\DISTR\GeekBrains\Seminars\ex40\bin\Debug\net7.0\ex40.dll
+C:\DISTR\GeekBrains\Seminars\ex40\bin\Debug\net7.0\ex40.pdb
+C:\DISTR\GeekBrains\Seminars\ex40\obj\Debug\net7.0\ex40.dll
+C:\DISTR\GeekBrains\Seminars\ex40\obj\Debug\net7.0\refint\ex40.dll
+C:\DISTR\GeekBrains\Seminars\ex40\obj\Debug\net7.0\ex40.pdb
+C:\DISTR\GeekBrains\Seminars\ex40\obj\Debug\net7.0\ex40.genruntimeconfig.cache
+C:\DISTR\GeekBrains\Seminars\ex40\obj\Debug\net7.0\ref\ex40.dll
