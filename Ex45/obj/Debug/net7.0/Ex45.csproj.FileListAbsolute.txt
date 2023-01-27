@@ -1,0 +1,15 @@
+C:\DISTR\GeekBrains\Seminars\Ex45\obj\Debug\net7.0\Ex45.csproj.AssemblyReference.cache
+C:\DISTR\GeekBrains\Seminars\Ex45\obj\Debug\net7.0\Ex45.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISTR\GeekBrains\Seminars\Ex45\obj\Debug\net7.0\Ex45.AssemblyInfoInputs.cache
+C:\DISTR\GeekBrains\Seminars\Ex45\obj\Debug\net7.0\Ex45.AssemblyInfo.cs
+C:\DISTR\GeekBrains\Seminars\Ex45\obj\Debug\net7.0\Ex45.csproj.CoreCompileInputs.cache
+C:\DISTR\GeekBrains\Seminars\Ex45\bin\Debug\net7.0\Ex45.exe
+C:\DISTR\GeekBrains\Seminars\Ex45\bin\Debug\net7.0\Ex45.deps.json
+C:\DISTR\GeekBrains\Seminars\Ex45\bin\Debug\net7.0\Ex45.runtimeconfig.json
+C:\DISTR\GeekBrains\Seminars\Ex45\bin\Debug\net7.0\Ex45.dll
+C:\DISTR\GeekBrains\Seminars\Ex45\bin\Debug\net7.0\Ex45.pdb
+C:\DISTR\GeekBrains\Seminars\Ex45\obj\Debug\net7.0\Ex45.dll
+C:\DISTR\GeekBrains\Seminars\Ex45\obj\Debug\net7.0\refint\Ex45.dll
+C:\DISTR\GeekBrains\Seminars\Ex45\obj\Debug\net7.0\Ex45.pdb
+C:\DISTR\GeekBrains\Seminars\Ex45\obj\Debug\net7.0\Ex45.genruntimeconfig.cache
+C:\DISTR\GeekBrains\Seminars\Ex45\obj\Debug\net7.0\ref\Ex45.dll
