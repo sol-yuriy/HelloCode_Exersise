@@ -11,7 +11,7 @@ int digit = GetNumberFromUser("Введите десятичное число: "
 int sizeBin = GetBinSize(digit);
 int[] BinFromDec = GetBinFromDec(digit, sizeBin);
 
-GetBinRevers(BinFromDec);
+GetBinRevers(BinFromDec, sizeBin);
 Console.WriteLine($"Число {digit} в двоичном виде: {String.Join("", BinFromDec)}");
 
 
@@ -58,12 +58,12 @@ int[] GetBinFromDec(int cipher, int size)
 }
 
 //Метод переворота получившегося массива - окончательный двоичный вид числа пользователя
-void GetBinRevers(int[] inArray)
+void GetBinRevers(int[] inArray, int size)
 {
-    for (int i = 0; i < inArray.Length/2; i++)
+    for (int i = 0; i < size/2; i++)
     {
         int temp = inArray[i];
-        inArray[i] = inArray[inArray.Length - 1 - i];
-        inArray[inArray.Length - 1 - i] = temp;
+        inArray[i] = inArray[size - 1 - i];
+        inArray[size - 1 - i] = temp;
     }
 }
