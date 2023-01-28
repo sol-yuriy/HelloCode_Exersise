@@ -1,0 +1,15 @@
+C:\DISTR\GeekBrains\Seminars\ex43\bin\Debug\net7.0\ex43.exe
+C:\DISTR\GeekBrains\Seminars\ex43\bin\Debug\net7.0\ex43.deps.json
+C:\DISTR\GeekBrains\Seminars\ex43\bin\Debug\net7.0\ex43.runtimeconfig.json
+C:\DISTR\GeekBrains\Seminars\ex43\bin\Debug\net7.0\ex43.dll
+C:\DISTR\GeekBrains\Seminars\ex43\bin\Debug\net7.0\ex43.pdb
+C:\DISTR\GeekBrains\Seminars\ex43\obj\Debug\net7.0\ex43.csproj.AssemblyReference.cache
+C:\DISTR\GeekBrains\Seminars\ex43\obj\Debug\net7.0\ex43.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISTR\GeekBrains\Seminars\ex43\obj\Debug\net7.0\ex43.AssemblyInfoInputs.cache
+C:\DISTR\GeekBrains\Seminars\ex43\obj\Debug\net7.0\ex43.AssemblyInfo.cs
+C:\DISTR\GeekBrains\Seminars\ex43\obj\Debug\net7.0\ex43.csproj.CoreCompileInputs.cache
+C:\DISTR\GeekBrains\Seminars\ex43\obj\Debug\net7.0\ex43.dll
+C:\DISTR\GeekBrains\Seminars\ex43\obj\Debug\net7.0\refint\ex43.dll
+C:\DISTR\GeekBrains\Seminars\ex43\obj\Debug\net7.0\ex43.pdb
+C:\DISTR\GeekBrains\Seminars\ex43\obj\Debug\net7.0\ex43.genruntimeconfig.cache
+C:\DISTR\GeekBrains\Seminars\ex43\obj\Debug\net7.0\ref\ex43.dll
