@@ -29,7 +29,6 @@ int GetNumberFromUser(string message, string errorMessage)
     }
 }
 
-
 //Метод создания и заполнения массива по заданному условию
 int[,] GetFillArray(int row, int column)
 {
@@ -47,7 +46,7 @@ int[,] GetFillArray(int row, int column)
     return array;
 }
 
-//Метод вывода созданного массива
+//Метод вывода созданного массива и расчет диагонали
 void GetPrintArray(int[,] array, int row, int column)
 {
     int result = 0;
@@ -63,5 +62,3 @@ void GetPrintArray(int[,] array, int row, int column)
     }
     Console.WriteLine($"Сумма элементов главной диагонали: {result}");
 }
-
-
