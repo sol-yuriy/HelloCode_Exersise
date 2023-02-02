@@ -77,11 +77,9 @@ int[,] GetNewArray(int[,] array, int row, int column)
     int[,] newArray = new int[row, column];
     for (int i = 0; i < row; i++)
     {
-        int[] tempColumn = new int[row];
         for (int j = 0; j < column; j++)
         {
-            tempColumn[j] = array[j, i];
-            newArray[i, j] = tempColumn[j];
+            newArray[i, j] = array[j, i];
         }
     }
     return newArray;
