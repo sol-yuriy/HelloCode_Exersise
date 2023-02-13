@@ -1,0 +1,15 @@
+C:\DISTR\GeekBrains\Seminars\ex68\bin\Debug\net7.0\ex68.exe
+C:\DISTR\GeekBrains\Seminars\ex68\bin\Debug\net7.0\ex68.deps.json
+C:\DISTR\GeekBrains\Seminars\ex68\bin\Debug\net7.0\ex68.runtimeconfig.json
+C:\DISTR\GeekBrains\Seminars\ex68\bin\Debug\net7.0\ex68.dll
+C:\DISTR\GeekBrains\Seminars\ex68\bin\Debug\net7.0\ex68.pdb
+C:\DISTR\GeekBrains\Seminars\ex68\obj\Debug\net7.0\ex68.csproj.AssemblyReference.cache
+C:\DISTR\GeekBrains\Seminars\ex68\obj\Debug\net7.0\ex68.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISTR\GeekBrains\Seminars\ex68\obj\Debug\net7.0\ex68.AssemblyInfoInputs.cache
+C:\DISTR\GeekBrains\Seminars\ex68\obj\Debug\net7.0\ex68.AssemblyInfo.cs
+C:\DISTR\GeekBrains\Seminars\ex68\obj\Debug\net7.0\ex68.csproj.CoreCompileInputs.cache
+C:\DISTR\GeekBrains\Seminars\ex68\obj\Debug\net7.0\ex68.dll
+C:\DISTR\GeekBrains\Seminars\ex68\obj\Debug\net7.0\refint\ex68.dll
+C:\DISTR\GeekBrains\Seminars\ex68\obj\Debug\net7.0\ex68.pdb
+C:\DISTR\GeekBrains\Seminars\ex68\obj\Debug\net7.0\ex68.genruntimeconfig.cache
+C:\DISTR\GeekBrains\Seminars\ex68\obj\Debug\net7.0\ref\ex68.dll
