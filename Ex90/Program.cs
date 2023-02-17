@@ -2,11 +2,13 @@
 Написать программу, которая из имеющегося массива строк сформирует новый массив строк, длина которых меньше либо равна 3.
 */
 
+//Ввод данных
 int size = GetNumberFromUser("Введите количество элементов массива: ", "Ошибка ввода!");
 string[] array = GetStringArray(size);
 int count = GetSizeNewArray(array);
 string[] newArray = GetNewArray(array, count);
 
+//Вывод данных
 Console.WriteLine();
 Console.WriteLine($"Массив: [ {String.Join(", ", array)} ]");
 Console.WriteLine();
