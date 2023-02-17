@@ -1,0 +1,15 @@
+C:\DISTR\GeekBrains\Seminars\ex90\bin\Debug\net7.0\ex90.exe
+C:\DISTR\GeekBrains\Seminars\ex90\bin\Debug\net7.0\ex90.deps.json
+C:\DISTR\GeekBrains\Seminars\ex90\bin\Debug\net7.0\ex90.runtimeconfig.json
+C:\DISTR\GeekBrains\Seminars\ex90\bin\Debug\net7.0\ex90.dll
+C:\DISTR\GeekBrains\Seminars\ex90\bin\Debug\net7.0\ex90.pdb
+C:\DISTR\GeekBrains\Seminars\ex90\obj\Debug\net7.0\ex90.csproj.AssemblyReference.cache
+C:\DISTR\GeekBrains\Seminars\ex90\obj\Debug\net7.0\ex90.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISTR\GeekBrains\Seminars\ex90\obj\Debug\net7.0\ex90.AssemblyInfoInputs.cache
+C:\DISTR\GeekBrains\Seminars\ex90\obj\Debug\net7.0\ex90.AssemblyInfo.cs
+C:\DISTR\GeekBrains\Seminars\ex90\obj\Debug\net7.0\ex90.csproj.CoreCompileInputs.cache
+C:\DISTR\GeekBrains\Seminars\ex90\obj\Debug\net7.0\ex90.dll
+C:\DISTR\GeekBrains\Seminars\ex90\obj\Debug\net7.0\refint\ex90.dll
+C:\DISTR\GeekBrains\Seminars\ex90\obj\Debug\net7.0\ex90.pdb
+C:\DISTR\GeekBrains\Seminars\ex90\obj\Debug\net7.0\ex90.genruntimeconfig.cache
+C:\DISTR\GeekBrains\Seminars\ex90\obj\Debug\net7.0\ref\ex90.dll
