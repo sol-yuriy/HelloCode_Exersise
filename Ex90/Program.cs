@@ -20,8 +20,5 @@ for (int i = 0; i < array.Length; i++)
         j++;
     }
 }
-
+// вывод массива
 Console.WriteLine($"{String.Join(", ", part)}");
-
-
-
