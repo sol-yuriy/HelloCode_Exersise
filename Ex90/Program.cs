@@ -2,9 +2,15 @@
 Написать программу, которая из имеющегося массива строк сформирует новый массив строк, длина которых меньше либо равна 3.
 */
 
-int size = GetNumberFromUser("Введите количество элементов массива': ", "Ошибка ввода!");
+int size = GetNumberFromUser("Введите количество элементов массива: ", "Ошибка ввода!");
+string[] array = GetStringArray(size);
+int count = GetSizeNewArray(array);
+string[] newArray = GetNewArray(array, count);
 
-
+Console.WriteLine();
+Console.WriteLine($"Массив: [ {String.Join(", ", array)} ]");
+Console.WriteLine();
+Console.WriteLine($"Новый массив: [ {String.Join(", ", newArray)} ]");
 
 
 // Метод ввода целого числа пользователем
@@ -20,32 +26,41 @@ int GetNumberFromUser(string message, string errorMessage)
     }
 }
 
-// Метод формирования начального строкового массива
+// Метод формирования начального строкового массива с терминала
 string[] GetStringArray(int size)
 {
     string[] array = new string[size];
-    for (int i=0; i<size;i++)
+    for (int i = 0; i < size; i++)
+    {
+        Console.Write("Введите символы элемента массива: ");
         array[i] = Console.ReadLine() ?? "";
+    }
     return array;
 }
 
-string[] array = { "dhgdfhdf", "df9", "5", "7gt", "398hf", "jhbhf", "/._", "jhgytf545e" };
-
-// определим длину результирующего массива
-int size=0;
-for (int i = 0; i < array.Length; i++)
-    if (array[i].Length <= 3)  size++;
-
-// сформируем новый массив
-string[] part = new string[size];
-int j=0;
-for (int i = 0; i < array.Length; i++)
+// Метод определения длины результирующего массива
+int GetSizeNewArray(string[] array)
 {
-    if (array[i].Length <= 3)
-    {
-        part[j] = array[i];
-        j++;
-    }
+    int size = 0;
+    for (int i = 0; i < array.Length; i++)
+        if (array[i].Length <= 3) size++;
+    return size;
 }
-// вывод массива
-Console.WriteLine($"{String.Join(", ", part)}");
+
+// Метод формирования нового массива с элементами не более 3х символов
+string[] GetNewArray(string[] array, int size)
+{
+    string[] part = new string[size];
+    int j = 0;
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= 3)
+        {
+            part[j] = array[i];
+            j++;
+        }
+    }
+    return part;
+}
+
+
